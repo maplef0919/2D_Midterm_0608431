@@ -37,7 +37,7 @@ public class Player : MonoBehaviour
     private void OnDrawGizmos()
     {
         //指定圖示顏色(紅,綠,藍,透明)
-        Gizmos.color = new Color(1, 0, 0, 0.4f);
+        Gizmos.color = new Color(1, 0, 0, 0.5f);
         //繪製圖示 球體(中心點,半徑)
         Gizmos.DrawSphere(transform.position, rangeAttack);
     }

@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - DestruirDecoraCion
+  - Bloque
+  - Hittable
+  - "\u9053\u5177"
   layers:
   - Default
   - TransparentFX
@@ -13,7 +17,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - "\u53EF\u4EE5\u88AB\u6253"
   - 
   - 
   - 
